@@ -12,6 +12,7 @@ body {
     background-image: url(https://freefrontend.com/assets/img/css-weather-icons/html-css-animated-weather-icons.gif);
     background-position: center;
     background-repeat: no-repeat;
+    background-color: rgb(62, 153, 202);
     padding: 15px;
     color: rgb(0, 0, 0);
     position: fixed;

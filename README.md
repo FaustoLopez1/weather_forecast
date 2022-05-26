@@ -31,8 +31,8 @@ All you need to do is follow the prompt by clicking okay or cancel.
 
 
 - https://stackoverflow.com/questions/2194992/jquery-is-not-defined
-- https://openweathermap.org/forecast5
-- https://openweathermap.org/faq#error401
+- https://github.com/FaustoLopez1/fausto-s-text-editor
+- https://stark-castle-72412.herokuapp.com/
 
 ![alt text](https://img.shields.io/badge/License-green)
 
